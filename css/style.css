@@ -641,7 +641,7 @@ span.border.one:after {
 }
 
 .timeline > li {
-  margin-bottom:10px;
+  margin-bottom:30px;
   position: relative;
 }
 
@@ -766,16 +766,19 @@ ul.year li {
     display: block;
 }
 ul.year li:nth-child(2){
-	    margin-top: 119px;
+	    margin-top: 70px;
 }
 ul.year li:nth-child(3){
-	    margin-top: 129px;
+	    margin-top: 70px;
 }
 ul.year li:nth-child(4){
-	    margin-top: 116px;
+	    margin-top: 70px;
 }
 ul.year li:nth-child(5){
-	    margin-top: 112px;
+	    margin-top: 70px;
+}
+ul.year li:nth-child(6){
+	margin-top: 70px;
 }
 .timeline-badge.success i {
     font-size: 0.9em;
