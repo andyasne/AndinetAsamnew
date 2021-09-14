@@ -1445,9 +1445,9 @@ span.border.two:after {
 		margin-right: -1.5px;
 	}
 	.team-gd {
-		padding: 0;
+		padding: 10px;
 		width: 33%;
-		float: left;
+	 
 	}
 	.thumb:hover ul li {
 		margin: 113px 0px 0;
